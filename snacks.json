@@ -1,0 +1,1 @@
+[{"id": "1", "name": "Pizza", "price": "199", "availability": "yes"}, {"id": "8", "name": "Burger", "price": "250", "availability": "yes"}, {"id": "6", "name": "Fries", "price": 129, "availability": "no"}, {"id": 12, "name": "Samosa", "price": 15, "availability": "yes"}, {"id": 10, "name": "Bada pav", "price": 130, "availability": "no"}]
